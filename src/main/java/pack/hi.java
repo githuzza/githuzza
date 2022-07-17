@@ -6,7 +6,7 @@ public class hi {
 		// TODO Auto-generated method stub
 
 		String name;
-		
+		int phone;
 		testing();
 	}
 	public static void testing() {
